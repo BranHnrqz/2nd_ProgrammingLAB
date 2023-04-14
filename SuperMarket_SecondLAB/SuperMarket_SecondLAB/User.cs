@@ -22,8 +22,8 @@ namespace SuperMarket_SecondLAB
             supermarket.AddCategory(category);
         }
 
-        public void CrearProducto(string name, string supplier, DateTime expiry, 
-                                  DateTime entry, string detail, decimal price, int unit)
+        public void CreateProduct(string name, string supplier, DateTime expiry, 
+                                  DateTime entry, string category, decimal price, int unit)
         {
             Product product = new Product
             {
@@ -31,7 +31,7 @@ namespace SuperMarket_SecondLAB
                 Supplier = supplier,
                 Expiry = expiry,
                 Entry = entry,  
-                Detail = detail,
+                Category = category,
                 Price = price,
                 Unit = unit
             };
@@ -69,6 +69,15 @@ namespace SuperMarket_SecondLAB
             }
         }
 
+        public void SeeAllProduct()
+        {
+            Console.WriteLine("Productos:");
+            foreach (Product product in supermarket.Products)
+            {
+                Console.WriteLine("Nombre: " + product.Name + " proveedor: " + product.Supplier + " vence: " + product.Expiry + " entrada: " + product.Entry + " categoria: " + product.Category + " precio: " + product.Price + " unidades: " + product.Unit);
+            }
+        }
+
         public void SeeProduct()
         {
             Console.WriteLine("Productos:");
@@ -88,6 +97,7 @@ namespace SuperMarket_SecondLAB
             };
 
         }
+
 
         public User(int id, string name, string password, int age, string level, Supermarket supermarket)
         {

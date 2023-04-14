@@ -19,12 +19,12 @@ namespace SuperMarket_SecondLAB
 
         public void AddCategory(Category category)
         {
-            Category.Add(category);
+            Categories.Add(category);
         }
 
         public void DeleteCategory(Category category)
         {
-            Category.Remove(category);
+            Categories.Remove(category);
         }
 
         public Category FindCategory(string nameof)

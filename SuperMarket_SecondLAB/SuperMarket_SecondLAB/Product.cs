@@ -12,7 +12,7 @@ namespace SuperMarket_SecondLAB
         public string Supplier { get; set; }
         public DateTime Expiry { get; set; }
         public DateTime Entry { get; set; }
-        public string Detail { get; set; }
+        public string Category { get; set; }
         public decimal Price { get; set; }
         public int Unit { get; set; }
     }

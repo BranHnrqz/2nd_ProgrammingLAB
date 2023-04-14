@@ -1,0 +1,8 @@
+C:\Users\septi\OneDrive\Documentos\Progra3\2nd_ProgrammingLAB-main\SuperMarket_SecondLAB\SuperMarket_SecondLAB\obj\Debug\SuperMarket_SecondLAB.csproj.AssemblyReference.cache
+C:\Users\septi\OneDrive\Documentos\Progra3\2nd_ProgrammingLAB-main\SuperMarket_SecondLAB\SuperMarket_SecondLAB\obj\Debug\SuperMarket_SecondLAB.csproj.SuggestedBindingRedirects.cache
+C:\Users\septi\OneDrive\Documentos\Progra3\2nd_ProgrammingLAB-main\SuperMarket_SecondLAB\SuperMarket_SecondLAB\obj\Debug\SuperMarket_SecondLAB.csproj.CoreCompileInputs.cache
+C:\Users\septi\OneDrive\Documentos\Progra3\2nd_ProgrammingLAB-main\SuperMarket_SecondLAB\SuperMarket_SecondLAB\bin\Debug\SuperMarket_SecondLAB.exe.config
+C:\Users\septi\OneDrive\Documentos\Progra3\2nd_ProgrammingLAB-main\SuperMarket_SecondLAB\SuperMarket_SecondLAB\bin\Debug\SuperMarket_SecondLAB.exe
+C:\Users\septi\OneDrive\Documentos\Progra3\2nd_ProgrammingLAB-main\SuperMarket_SecondLAB\SuperMarket_SecondLAB\bin\Debug\SuperMarket_SecondLAB.pdb
+C:\Users\septi\OneDrive\Documentos\Progra3\2nd_ProgrammingLAB-main\SuperMarket_SecondLAB\SuperMarket_SecondLAB\obj\Debug\SuperMarket_SecondLAB.exe
+C:\Users\septi\OneDrive\Documentos\Progra3\2nd_ProgrammingLAB-main\SuperMarket_SecondLAB\SuperMarket_SecondLAB\obj\Debug\SuperMarket_SecondLAB.pdb
